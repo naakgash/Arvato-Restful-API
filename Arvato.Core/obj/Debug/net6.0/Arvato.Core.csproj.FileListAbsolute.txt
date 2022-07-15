@@ -1,0 +1,12 @@
+C:\Users\Naakgash\source\repos\Arvato-Restful-API\Arvato.Core\bin\Debug\net6.0\Arvato.Core.deps.json
+C:\Users\Naakgash\source\repos\Arvato-Restful-API\Arvato.Core\bin\Debug\net6.0\Arvato.Core.dll
+C:\Users\Naakgash\source\repos\Arvato-Restful-API\Arvato.Core\bin\Debug\net6.0\Arvato.Core.pdb
+C:\Users\Naakgash\source\repos\Arvato-Restful-API\Arvato.Core\obj\Debug\net6.0\Arvato.Core.csproj.AssemblyReference.cache
+C:\Users\Naakgash\source\repos\Arvato-Restful-API\Arvato.Core\obj\Debug\net6.0\Arvato.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naakgash\source\repos\Arvato-Restful-API\Arvato.Core\obj\Debug\net6.0\Arvato.Core.AssemblyInfoInputs.cache
+C:\Users\Naakgash\source\repos\Arvato-Restful-API\Arvato.Core\obj\Debug\net6.0\Arvato.Core.AssemblyInfo.cs
+C:\Users\Naakgash\source\repos\Arvato-Restful-API\Arvato.Core\obj\Debug\net6.0\Arvato.Core.csproj.CoreCompileInputs.cache
+C:\Users\Naakgash\source\repos\Arvato-Restful-API\Arvato.Core\obj\Debug\net6.0\Arvato.Core.dll
+C:\Users\Naakgash\source\repos\Arvato-Restful-API\Arvato.Core\obj\Debug\net6.0\refint\Arvato.Core.dll
+C:\Users\Naakgash\source\repos\Arvato-Restful-API\Arvato.Core\obj\Debug\net6.0\Arvato.Core.pdb
+C:\Users\Naakgash\source\repos\Arvato-Restful-API\Arvato.Core\obj\Debug\net6.0\ref\Arvato.Core.dll

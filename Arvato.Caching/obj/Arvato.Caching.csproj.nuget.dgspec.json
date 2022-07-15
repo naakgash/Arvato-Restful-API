@@ -1,0 +1,274 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Naakgash\\source\\repos\\Arvato-Restful-API\\Arvato.Caching\\Arvato.Caching.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Naakgash\\source\\repos\\Arvato-Restful-API\\Arvato.Caching\\Arvato.Caching.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Naakgash\\source\\repos\\Arvato-Restful-API\\Arvato.Caching\\Arvato.Caching.csproj",
+        "projectName": "Arvato.Caching",
+        "projectPath": "C:\\Users\\Naakgash\\source\\repos\\Arvato-Restful-API\\Arvato.Caching\\Arvato.Caching.csproj",
+        "packagesPath": "C:\\Users\\Naakgash\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Naakgash\\source\\repos\\Arvato-Restful-API\\Arvato.Caching\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Naakgash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Naakgash\\source\\repos\\Arvato-Restful-API\\Arvato.Service\\Arvato.Service.csproj": {
+                "projectPath": "C:\\Users\\Naakgash\\source\\repos\\Arvato-Restful-API\\Arvato.Service\\Arvato.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Naakgash\\source\\repos\\Arvato-Restful-API\\Arvato.Core\\Arvato.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Naakgash\\source\\repos\\Arvato-Restful-API\\Arvato.Core\\Arvato.Core.csproj",
+        "projectName": "Arvato.Core",
+        "projectPath": "C:\\Users\\Naakgash\\source\\repos\\Arvato-Restful-API\\Arvato.Core\\Arvato.Core.csproj",
+        "packagesPath": "C:\\Users\\Naakgash\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Naakgash\\source\\repos\\Arvato-Restful-API\\Arvato.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Naakgash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Naakgash\\source\\repos\\Arvato-Restful-API\\Arvato.Repository\\Arvato.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Naakgash\\source\\repos\\Arvato-Restful-API\\Arvato.Repository\\Arvato.Repository.csproj",
+        "projectName": "Arvato.Repository",
+        "projectPath": "C:\\Users\\Naakgash\\source\\repos\\Arvato-Restful-API\\Arvato.Repository\\Arvato.Repository.csproj",
+        "packagesPath": "C:\\Users\\Naakgash\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Naakgash\\source\\repos\\Arvato-Restful-API\\Arvato.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Naakgash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Naakgash\\source\\repos\\Arvato-Restful-API\\Arvato.Core\\Arvato.Core.csproj": {
+                "projectPath": "C:\\Users\\Naakgash\\source\\repos\\Arvato-Restful-API\\Arvato.Core\\Arvato.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Naakgash\\source\\repos\\Arvato-Restful-API\\Arvato.Service\\Arvato.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Naakgash\\source\\repos\\Arvato-Restful-API\\Arvato.Service\\Arvato.Service.csproj",
+        "projectName": "Arvato.Service",
+        "projectPath": "C:\\Users\\Naakgash\\source\\repos\\Arvato-Restful-API\\Arvato.Service\\Arvato.Service.csproj",
+        "packagesPath": "C:\\Users\\Naakgash\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Naakgash\\source\\repos\\Arvato-Restful-API\\Arvato.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Naakgash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Naakgash\\source\\repos\\Arvato-Restful-API\\Arvato.Repository\\Arvato.Repository.csproj": {
+                "projectPath": "C:\\Users\\Naakgash\\source\\repos\\Arvato-Restful-API\\Arvato.Repository\\Arvato.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
