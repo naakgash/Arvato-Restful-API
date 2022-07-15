@@ -1,0 +1,17 @@
+C:\Users\Naakgash\source\repos\Arvato-Restful-API\Arvato.Repository\bin\Debug\net6.0\Arvato.Repository.deps.json
+C:\Users\Naakgash\source\repos\Arvato-Restful-API\Arvato.Repository\bin\Debug\net6.0\Arvato.Repository.runtimeconfig.json
+C:\Users\Naakgash\source\repos\Arvato-Restful-API\Arvato.Repository\bin\Debug\net6.0\Arvato.Repository.dll
+C:\Users\Naakgash\source\repos\Arvato-Restful-API\Arvato.Repository\bin\Debug\net6.0\Arvato.Repository.pdb
+C:\Users\Naakgash\source\repos\Arvato-Restful-API\Arvato.Repository\obj\Debug\net6.0\Arvato.Repository.csproj.AssemblyReference.cache
+C:\Users\Naakgash\source\repos\Arvato-Restful-API\Arvato.Repository\obj\Debug\net6.0\Arvato.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naakgash\source\repos\Arvato-Restful-API\Arvato.Repository\obj\Debug\net6.0\Arvato.Repository.AssemblyInfoInputs.cache
+C:\Users\Naakgash\source\repos\Arvato-Restful-API\Arvato.Repository\obj\Debug\net6.0\Arvato.Repository.AssemblyInfo.cs
+C:\Users\Naakgash\source\repos\Arvato-Restful-API\Arvato.Repository\obj\Debug\net6.0\Arvato.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Naakgash\source\repos\Arvato-Restful-API\Arvato.Repository\obj\Debug\net6.0\Arvato.Repository.dll
+C:\Users\Naakgash\source\repos\Arvato-Restful-API\Arvato.Repository\obj\Debug\net6.0\refint\Arvato.Repository.dll
+C:\Users\Naakgash\source\repos\Arvato-Restful-API\Arvato.Repository\obj\Debug\net6.0\Arvato.Repository.pdb
+C:\Users\Naakgash\source\repos\Arvato-Restful-API\Arvato.Repository\obj\Debug\net6.0\Arvato.Repository.genruntimeconfig.cache
+C:\Users\Naakgash\source\repos\Arvato-Restful-API\Arvato.Repository\obj\Debug\net6.0\ref\Arvato.Repository.dll
+C:\Users\Naakgash\source\repos\Arvato-Restful-API\Arvato.Repository\bin\Debug\net6.0\Arvato.Core.dll
+C:\Users\Naakgash\source\repos\Arvato-Restful-API\Arvato.Repository\bin\Debug\net6.0\Arvato.Core.pdb
+C:\Users\Naakgash\source\repos\Arvato-Restful-API\Arvato.Repository\obj\Debug\net6.0\Arvato.Repository.csproj.CopyComplete
